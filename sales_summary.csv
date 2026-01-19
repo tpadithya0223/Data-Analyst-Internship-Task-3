@@ -1,0 +1,13 @@
+Region,Category,Total_Sales,Average_Sales
+South,Technology,148771.91,540.99
+South,Furniture,116531.30,351.00
+South,Office Supplies,125651.08,126.28
+West,Technology,247011.48,414.45
+West,Furniture,248008.01,355.82
+West,Office Supplies,216451.41,114.16
+Central,Technology,167043.31,405.45
+Central,Furniture,160317.46,340.38
+Central,Office Supplies,163590.18,114.72
+East,Technology,260376.12,486.68
+East,Furniture,206461.35,342.96
+East,Office Supplies,201516.05,117.64
